@@ -6,7 +6,7 @@ export default function Navbar(){
         <>
             <nav>
                 <div>
-                    <h1>PrasertShop</h1>
+                    <h1>Prasert Shop</h1>
                 </div>
                 
                 <Link href="/">หน้าแรก</Link>
