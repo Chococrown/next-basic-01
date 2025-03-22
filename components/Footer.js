@@ -1,7 +1,7 @@
 export default function Footer(){
     return(
-        <Footer>
+        <footer>
             copyright 2025 | PrasertShop
-        </Footer>
+        </footer>
     )
 }
