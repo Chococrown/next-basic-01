@@ -37,3 +37,7 @@ footer{
   color: whitesmoke;
   border-top: 1px solid blueviolet;
 }
+
+a{
+  text-decoration: none;
+}
