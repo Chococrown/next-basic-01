@@ -6,8 +6,10 @@ export default function Navbar(){
         <>
             <nav>
 
-                <div>
-                    <Image src="/logo.png" width={50} height={50} alt="Logo"/>
+                <div className="logo">
+                    <Link href="/">
+                        <Image src="/logo.png" width={50} height={50} alt="Logo"/>  
+                    </Link>
                 </div>
                 
                 <Link href="/">หน้าแรก</Link>
