@@ -9,6 +9,7 @@ const nextConfig = {
         hostname: 'cdn.dummyjson.com',
       },
     ],
+    unoptimized:true
   },
 
 };
