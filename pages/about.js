@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function About(){
     return(
         <>
-            <div className={styles.containner}>
+            <div className={styles.container}>
     
             <h1 className={styles.title}>เกี่ยวกับเรา</h1>
     
